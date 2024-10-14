@@ -1,16 +1,19 @@
-"codingProjects":[
-    {
-        "name": "React project",
-        "description": "I completed this project using React to build an application based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. I utilized a CSS framework to create a modern UI that interacted seamlessly with the API.",
-        "img": "https://via.placeholder.com/350x200",
-        "githublink": ,
-        "livelink": ,
-    }
-    {
-        "name": "Laravel API",
-        "description": "I built a build a well architected API that works with a pre-built React front-end application.",
-        "img": "https://via.placeholder.com/350x200",
-        "githublink": ,
-        "livelink": ,
-    }
-]
+{
+    "project": [
+        {
+            "name": "React project",
+            "description": "I completed this project using React to build an application based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. I utilized a CSS framework to create a modern UI that interacted seamlessly with the API.",
+            "img": "https://via.placeholder.com/350x200",
+            "githublink": "https://github.com/vivhayles/react-project",
+            "livelink": "https://liveproject.com/react-project"
+        },
+        {
+            "name": "Laravel API",
+            "description": "I built a well-architected API that works with a pre-built React front-end application.",
+            "img": "https://via.placeholder.com/350x200",
+            "githublink": "https://github.com/vivhayles/laravel-api",
+            "livelink": "https://liveproject.com/laravel-api"
+        }
+    ]
+}
+

@@ -8,6 +8,13 @@
             "livelink": "https://liveproject.com/react-project"
         },
         {
+            "name": "Collectors App",
+            "description": "I created a collectors app that allows collectors to share their collections with friends, add, remove and edit items in their collection.",
+            "img": "https://via.placeholder.com/350x200",
+            "githublink": "https://github.com/vivhayles/collectors-app",
+            "livelink": "https://liveproject.com/collectors-app"
+        },
+        {
             "name": "Laravel API",
             "description": "I built a well-architected API that works with a pre-built React front-end application.",
             "img": "https://via.placeholder.com/350x200",

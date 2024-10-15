@@ -17,27 +17,28 @@
             <a href="#about-me" class="hover:text-violet-500" id="About me">About me</a>
             <a href="#portfolio-of-work" class="hover:text-violet-500" id="Portfolio">Portfolio</a>
             <a href="#contact-me" class="hover:text-violet-500" id="Contact me">Contact me</a>
-            <button class="hover:text-violet-500" id="Download CV">Download CV</button>
+            <a href="[url('vivhaylescv.pdf')]" class="hover:text-violet-500" id="Download CV">Download CV</a>
         </div>
     </nav>
     
-    <section class="h-32 bg-cover bg-[url('flowers.png')]">
-        
+    <section class="h-32 bg-cover bg-[url('flowers.png')]
+    md:bg-contain">
     </section>
 
     <section class="font-sans" id="about-me">
         <h1 class="text-3xl mx-2 my-2 text-center">Viv Hayles' Portfolio</h1>
         <h2 class="text-2xl mx-2 py-4">About Me</h2>
         <img 
-        class="border-1 rounded border-solid border-neutral-100 w-24 h-26 size-32 mx-4"
+        class="border-1 rounded border-solid border-neutral-100 size-32 h-40 w-26 mx-4 mx-auto
+        md:size-40 md:h-48 md:w-40"
         src="pictureofme.jpg" alt="Viv Hayles' face, white woman with brown hair and glasses">
-        <p class="mx-3 my-2">I’m currently enrolled in the Coding Skills Bootcamp at iO Academy, a comprehensive program designed to equip me with full-stack development skills. The curriculum covers HTML, CSS, JavaScript, Git, Agile methodologies, and industry-standard practices for web development. I’m learning to build responsive, interactive web applications, work with databases, and collaborate on real-world projects in a professional environment.</p>
+        <p class="mx-3 my-2 text-lg">I’m currently enrolled in the Coding Skills Bootcamp at iO Academy, a comprehensive program designed to equip me with full-stack development skills. The curriculum covers HTML, CSS, JavaScript, Git, Agile methodologies, and industry-standard practices for web development. I’m learning to build responsive, interactive web applications, work with databases, and collaborate on real-world projects in a professional environment.</p>
     </section>
 
     <section class="font-sans" id="portfolio-of-work">
         <h2 class="text-2xl mx-2 py-4">Portfolio of Work</h2>
         <p class="mx-2">Here is a showcase of my coding projects so far:</p>
-        <div class="" id="codingProjects"></div> 
+        <div class="md:grid grid-cols-2" id="codingProjects"></div> 
     </section>
     
     </section>
@@ -51,7 +52,7 @@
         </div>
     </section>
 
-    <footer class="bg-violet-200">
+    <footer class="bg-violet-200 p-2">
         <p>© Copyright 2024</p>
     </footer>
 

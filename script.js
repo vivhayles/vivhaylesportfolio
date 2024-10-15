@@ -7,7 +7,7 @@ fetch('codingprojects.json')
         
         data.project.forEach((project) => {
             codingProjects.innerHTML += `
-                <div class="codingPortfolio m-4 p-4 grid-container border-4 border-violet-300 rounded border-solid">
+                <div class="codingPortfolio m-4 p-4 grid-container grid justify-items-center border-4 border-violet-300 rounded border-solid">
                     <h3 class = "text-lg font-medium ">${project.name}</h3>
                     <p class="desc">${project.description}</p>
                     <img class="image py-4 mx-auto" src="${project.img}" alt="blank placeholder image"/>

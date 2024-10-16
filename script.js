@@ -11,7 +11,7 @@ fetch('codingprojects.json')
                     <h3 class="text-lg font-medium ">${project.name}</h3>
                     <p class="desc">${project.description}</p>
                     <img class="image py-4 mx-auto" src="${project.img}" alt="blank placeholder image"/>
-                    <button data-modal="${index}" class="modalbutton font-medium rounded-full bg-violet-800 text-white p-2 mb-2
+                    <button data-modal="${index}" class="modalbutton max-h-12 font-medium rounded-full bg-violet-800 text-white p-2 mb-2
                     hover:bg-violet-500">${project.modalbutton}</button>
                     <a class = "pe-4 font-xl font-medium hover:text-violet-500" href="${project.githublink}" target="_blank">View on GitHub</a>
                     <a class = "pe-4 font-xl font-medium hover:text-violet-500" href="${project.livelink}" target="_blank">Live Demo</a>

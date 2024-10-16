@@ -5,21 +5,27 @@
             "description": "I completed this project using React to build an application based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. I utilized a CSS framework to create a modern UI that interacted seamlessly with the API.",
             "img": "https://via.placeholder.com/350x200",
             "githublink": "https://github.com/vivhayles/react-project",
-            "livelink": "https://liveproject.com/react-project"
+            "livelink": "https://liveproject.com/react-project",
+            "modalbutton": "More Information",
+            "moreinfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec diam at quam porttitor congue. Praesent dignissim, turpis in malesuada semper, elit justo imperdiet lacus, ac porta ante arcu a odio. Morbi sit amet efficitur urna. Nulla facilisi. Nullam tincidunt magna elit, in pellentesque arcu aliquam vitae. Pellentesque eu mi in diam volutpat porttitor non eu quam. Etiam ultricies nibh finibus dolor elementum malesuada. Nullam accumsan purus tortor, et maximus dolor faucibus et. Vestibulum lobortis nisi lacus, ac pellentesque sapien vulputate sed. Vestibulum viverra enim ac ante fermentum accumsan. Proin placerat tristique scelerisque. Ut porttitor egestas tempor. In dictum fringilla tristique."
         },
         {
             "name": "Collectors App",
             "description": "I created a collectors app that allows collectors to share their collections with friends, add, remove and edit items in their collection.",
             "img": "https://via.placeholder.com/350x200",
             "githublink": "https://github.com/vivhayles/collectors-app",
-            "livelink": "https://liveproject.com/collectors-app"
+            "livelink": "https://liveproject.com/collectors-app" ,
+            "modalbutton": "More Information",
+            "moreinfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec diam at quam porttitor congue. Praesent dignissim, turpis in malesuada semper, elit justo imperdiet lacus, ac porta ante arcu a odio. Morbi sit amet efficitur urna. Nulla facilisi. Nullam tincidunt magna elit, in pellentesque arcu aliquam vitae. Pellentesque eu mi in diam volutpat porttitor non eu quam. Etiam ultricies nibh finibus dolor elementum malesuada. Nullam accumsan purus tortor, et maximus dolor faucibus et. Vestibulum lobortis nisi lacus, ac pellentesque sapien vulputate sed. Vestibulum viverra enim ac ante fermentum accumsan. Proin placerat tristique scelerisque. Ut porttitor egestas tempor. In dictum fringilla tristique."
         },
         {
             "name": "Laravel API",
             "description": "I built a well-architected API that works with a pre-built React front-end application.",
             "img": "https://via.placeholder.com/350x200",
             "githublink": "https://github.com/vivhayles/laravel-api",
-            "livelink": "https://liveproject.com/laravel-api"
+            "livelink": "https://liveproject.com/laravel-api",
+            "modalbutton": "More Information",
+            "moreinfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec diam at quam porttitor congue. Praesent dignissim, turpis in malesuada semper, elit justo imperdiet lacus, ac porta ante arcu a odio. Morbi sit amet efficitur urna. Nulla facilisi. Nullam tincidunt magna elit, in pellentesque arcu aliquam vitae. Pellentesque eu mi in diam volutpat porttitor non eu quam. Etiam ultricies nibh finibus dolor elementum malesuada. Nullam accumsan purus tortor, et maximus dolor faucibus et. Vestibulum lobortis nisi lacus, ac pellentesque sapien vulputate sed. Vestibulum viverra enim ac ante fermentum accumsan. Proin placerat tristique scelerisque. Ut porttitor egestas tempor. In dictum fringilla tristique."
         }
     ]
 }

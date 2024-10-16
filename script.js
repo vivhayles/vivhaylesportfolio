@@ -19,7 +19,7 @@ fetch('codingprojects.json')
 
     })
 
-    const menuButton = document.querySelector("#menu-button");
+const menuButton = document.querySelector("#menu-button")
 const menuLinks = document.querySelector('#nav-links')
 
 menuButton.addEventListener("click", toggleMobileMenu) 

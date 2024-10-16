@@ -15,7 +15,7 @@ fetch('codingprojects.json')
                     hover:bg-violet-500">${project.modalbutton}</button>
                     <a class = "pe-4 font-xl font-medium hover:text-violet-500" href="${project.githublink}" target="_blank">View on GitHub</a>
                     <a class = "pe-4 font-xl font-medium hover:text-violet-500" href="${project.livelink}" target="_blank">Live Demo</a>
-                    <section id="modal-${index}" class="modal hidden">${project.moreinfo}</section>
+                    <section id="modal-${index}" class="modal hidden pt-2">${project.moreinfo}</section>
                 </div>
             `
         })

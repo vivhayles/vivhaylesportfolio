@@ -1,25 +1,25 @@
 {
     "project": [
         {
-            "name": "React Project",
-            "description": "I completed this project using React to build an application based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. I utilized a CSS framework to create a modern UI that interacted seamlessly with the API.",
-            "img": "https://via.placeholder.com/350x200",
-            "githublink": "https://github.com/vivhayles/react-project",
-            "livelink": "https://liveproject.com/react-project",
+            "name": "Email Client-React Project",
+            "description": "I completed this project as part of a team using React to build an email client based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. We utilised TailWind to create a modern UI that interacted seamlessly with the API.",
+            "img": "https://dev.io-academy.uk/resources/email-client/inbox_desktop.png",
+            "githublink": "https://github.com/iO-Academy/2024-sept-red-pandas-email-fe",
+            "livelink": "https://2024-red-pandas-email-client.dev.io-academy.uk/",
             "modalbutton": "More Information",
-            "moreinfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec diam at quam porttitor congue. Praesent dignissim, turpis in malesuada semper, elit justo imperdiet lacus, ac porta ante arcu a odio. Morbi sit amet efficitur urna. Nulla facilisi. Nullam tincidunt magna elit, in pellentesque arcu aliquam vitae. Pellentesque eu mi in diam volutpat porttitor non eu quam. Etiam ultricies nibh finibus dolor elementum malesuada. Nullam accumsan purus tortor, et maximus dolor faucibus et. Vestibulum lobortis nisi lacus, ac pellentesque sapien vulputate sed. Vestibulum viverra enim ac ante fermentum accumsan. Proin placerat tristique scelerisque. Ut porttitor egestas tempor. In dictum fringilla tristique."
+            "moreinfo": "I worked on the 'open email' and 'search bar' features of the email client. I am particularly proud of the search bar functionality, which filters/unfilters the emails as the user types. I found this quite challenging to code and learnt a lot, whilst doing it!"
         },
         {
             "name": "Collectors App",
             "description": "I created a collectors app that allows collectors to share their collections with friends, add, remove and edit items in their collection.",
             "img": "https://via.placeholder.com/350x200",
-            "githublink": "https://github.com/vivhayles/collectors-app",
+            "githublink": "https://github.com/iO-Academy/2024-sept-resourceful-racoons-project-management",
             "livelink": "https://liveproject.com/collectors-app" ,
             "modalbutton": "More Information",
             "moreinfo": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam nec diam at quam porttitor congue. Praesent dignissim, turpis in malesuada semper, elit justo imperdiet lacus, ac porta ante arcu a odio. Morbi sit amet efficitur urna. Nulla facilisi. Nullam tincidunt magna elit, in pellentesque arcu aliquam vitae. Pellentesque eu mi in diam volutpat porttitor non eu quam. Etiam ultricies nibh finibus dolor elementum malesuada. Nullam accumsan purus tortor, et maximus dolor faucibus et. Vestibulum lobortis nisi lacus, ac pellentesque sapien vulputate sed. Vestibulum viverra enim ac ante fermentum accumsan. Proin placerat tristique scelerisque. Ut porttitor egestas tempor. In dictum fringilla tristique."
         },
         {
-            "name": "Laravel API",
+            "name": "Laravel API- IN PROGRESS",
             "description": "I built a well-architected API that works with a pre-built React front-end application.",
             "img": "https://via.placeholder.com/350x200",
             "githublink": "https://github.com/vivhayles/laravel-api",

@@ -3,7 +3,7 @@
         {
             "name": "Email Client-React Project",
             "description": "I completed this project as part of a team using React to build an email client based on a supplied design and an existing API. The application included features such as pagination, search, and filters, and had a responsive front-end. We utilised TailWind to create a modern UI that interacted seamlessly with the API.",
-            "img": "https://i.imgur.com/wyJoztN.png",
+            "img": "https://dev.io-academy.uk/resources/email-client/inbox_desktop.png",
             "githublink": "https://github.com/iO-Academy/2024-sept-red-pandas-email-fe",
             "livelink": "https://2024-red-pandas-email-client.dev.io-academy.uk/",
             "modalbutton": "More Information",

@@ -9,14 +9,11 @@ function Aboutme() {
                  alt="A picture of Viv a smiling white woman with brown hair and glasses" src={pictureofme}/>
             <Heading text="About Me"/>
             <div className="lg:text-lg m-4">
-                I&apos;m a software engineer specialising in React, PHP, MySQL. I&apos;m currently learning Laravel.
-                I completed the Coding Skills Bootcamp at iO Academy, in which I learnt HTML, CSS, JavaScript (including
-                React), PHP (including Laravel), Git, MySQL and Agile methodologies. I completed one individual coding
-                project and three group projects, which can be viewed below.
-
-                My background is in teaching where I taught GCSE Biology, Chemistry and Physics; mentored trainee and
-                early career teachers; trained all staff on creating a psychologically-safe class-room. I have over 6
-                years of experience in teaching.
+                I&apos;m a software engineer specialising in React, PHP, MySQL and Laravel. I&apos;m currently building
+                a full stack project to consolidate my skills. You can see evidence of my work below. My
+                background is in teaching where I taught GCSE biology, chemistry and physics; mentored trainee
+                and early career teachers; trained all staff on creating a psychologically-safe class-room.
+                I have over 6 years of experience in teaching.
             </div>
         </section>
     )
